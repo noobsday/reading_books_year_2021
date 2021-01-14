@@ -16,3 +16,5 @@
 ### Docker Swarm Advanced: Centralized Logging and Monitoring
  - by Alberto Guimarães Viana
 
+### Design Patterns in TypeScript
+ - by Dimitris Loukas
