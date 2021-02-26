@@ -18,3 +18,9 @@
 
 ### Design Patterns in TypeScript
  - by Dimitris Loukas
+
+### Practical System Programming for Rust Developers
+ - by Prabhu Eshwarla
+ - Publisher: Packt Publishing
+ - Release Date: December 2020
+ - ISBN: 9781800560963
